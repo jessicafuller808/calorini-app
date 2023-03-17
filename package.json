@@ -10,8 +10,6 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
     "@fontsource/roboto": "^4.5.8",
     "@mui/material": "^5.11.13",
     "dotenv": "^16.0.3",
