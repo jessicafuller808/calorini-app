@@ -11,7 +11,7 @@ function App() {
             Calor<span className="text-lime-500">ini</span>
           </h1>
           <h2 className="serif text-2xl text-right mb-6">
-            Build your <span className='font-bold'>best body</span> with <span className='italic'>simple</span>, protein-packed recipes from around the web
+            Build your best body with <span className='italic'>simple</span> protein-packed recipes from around the web
           </h2>
           <div className="flex-row w-80 justify-end">
             <button className="py-2 px-4 rounded-full bg-pink-900 w-32 h-12 font-semibold text-xl">
